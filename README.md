@@ -1,0 +1,2 @@
+# rorGraphqlExample
+RoR x GraphQL
